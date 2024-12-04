@@ -6,9 +6,7 @@ Tehtävä 3.10
 
 ## Navigation
 
-```
+
 - [] Osa1
   - unicafe
 
-
-```
