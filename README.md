@@ -6,8 +6,10 @@ Tehtävä 3.10
 
 ## Navigation
 - [x] Osa0
+```
   -muistiinpanon_luominen
   -muistiinpanon_luominen_spa
   -single_page_app
+```
 - [x] Osa1
 
