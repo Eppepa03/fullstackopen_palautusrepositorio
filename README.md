@@ -10,4 +10,14 @@ Tehtävä 3.10
   - muistiinpanon_luominen_spa
   - single_page_app
 - [x] Osa1
-
+  - anecdotes_osa1
+  - kurssitiedot_osa1
+  - unicafe_osa1
+- [x] Osa2
+  - kurssitiedot_osa2
+  - maiden_tiedot_osa2
+  - puhelinluettelo_osa2
+- [ ] Osa3
+  - puhelinluettelo_osa3_backend
+  - puhelinluettelo_osa3_frontend
+  - puhelinluettelo_osa3_repo
