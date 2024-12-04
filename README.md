@@ -8,5 +8,5 @@ Tehtävä 3.10
 
 
 - [x] Osa1
-  unicafe
+  -unicafe
 
