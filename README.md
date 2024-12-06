@@ -1,7 +1,7 @@
 # Elisan palautusrepositorio
 
 ## Deployed
-Tehtävä 3.10
+Tehtävä 3.10:
   - https://osa3-puhelinluettelo-70gj.onrender.com
 ## Navigation
 - [x] Osa0
