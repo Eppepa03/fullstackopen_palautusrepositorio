@@ -18,6 +18,4 @@ Tehtävä 3.10
   - maiden_tiedot_osa2
   - puhelinluettelo_osa2
 - [ ] Osa3
-  - puhelinluettelo_osa3_backend
-  - puhelinluettelo_osa3_frontend
-  - puhelinluettelo_osa3_repo
+  - oma repositorio
