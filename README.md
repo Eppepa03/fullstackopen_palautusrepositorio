@@ -17,4 +17,4 @@ Tehtävä 3.10
   - maiden_tiedot_osa2
   - puhelinluettelo_osa2
 - [ ] Osa3
-  - omassa repositoriossa: 
+  - omassa repositoriossa: fullstackopen_osa3_palautusrepositorio
