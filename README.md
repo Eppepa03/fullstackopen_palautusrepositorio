@@ -2,8 +2,7 @@
 
 ## Deployed
 Tehtävä 3.10
-  - Puhelinluettelo: https://puhelinluettelo-osa3-repo.onrender.com
-
+  - https://osa3-puhelinluettelo-70gj.onrender.com
 ## Navigation
 - [x] Osa0
   - muistiinpanon_luominen
@@ -18,4 +17,4 @@ Tehtävä 3.10
   - maiden_tiedot_osa2
   - puhelinluettelo_osa2
 - [ ] Osa3
-  - oma repositorio
+  - omassa repositoriossa: 
