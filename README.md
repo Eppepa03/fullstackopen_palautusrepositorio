@@ -18,5 +18,5 @@ Tehtävä 3.10:
   - puhelinluettelo_osa2
 - [x] Osa3
   - omassa repositoriossa: [fullstackopen_osa3_palautusrepositorio](https://github.com/Eppepa03/fullstackopen_osa3_palautusrepositorio)
-- [ ] Osa4
+- [] Osa4
   - 
