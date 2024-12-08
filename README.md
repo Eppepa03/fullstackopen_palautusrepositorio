@@ -16,5 +16,7 @@ Tehtävä 3.10:
   - kurssitiedot_osa2
   - maiden_tiedot_osa2
   - puhelinluettelo_osa2
-- [ ] Osa3
+- [x] Osa3
   - omassa repositoriossa: [fullstackopen_osa3_palautusrepositorio](https://github.com/Eppepa03/fullstackopen_osa3_palautusrepositorio)
+- [ ] Osa4
+  - 
