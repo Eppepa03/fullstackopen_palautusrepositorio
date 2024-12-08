@@ -19,5 +19,5 @@ Tehtävä 3.10:
 - [x] Osa3
   - omassa repositoriossa: [fullstackopen_osa3_palautusrepositorio](https://github.com/Eppepa03/fullstackopen_osa3_palautusrepositorio)
 - [ ] Osa4
-  - tähä
+  - blogilista_osa4
 
